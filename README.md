@@ -16,7 +16,8 @@ Loading the required libraries
 <br/>**Preparing the data-** Dividing data into training data and testing data, by listing out the major factors, i,e direct proportionality.
 <br/>**Build models-** Classify the concerned person with diabetes or not. 
 <br/>**Prediction-** A trained model is used to predict the data and for training data.
-<br/>**ROC Curve-** Receiver operating characterstic curve, graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied.<br/>**Comparison between models-** Comparing real values with real data, we can check the performance of our application. 
+<br/>**ROC Curve-** Receiver operating characterstic curve, graphical plot that illustrates the diagnostic ability of a binary classifier system as its discrimination threshold is varied.
+<br/>**Comparison between models-** Comparing real values with real data, we can check the performance of our application. 
 <br/>**Tech Stack:**
 <br/>**Programming Language-** Python(intermediate), R(basic)
 <br/>**Libraries-** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
