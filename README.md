@@ -22,6 +22,6 @@ Loading the required libraries
 
 <br/>**Tech Stack:**
 
-<br/>**Programming Language-** Python(intermediate), R(basic)
+<br/>**Programming Language-** Python(intermediate)
 <br/>**Libraries-** Pandas, Numpy, Matplotlib, Seaborn, Scikit-learn
 <br/>**Machine Learning-** Logistic Regression, Support Vector Machine, KNN, Random Forest, Naive Bayes Theorem and Gradient Boosting.
