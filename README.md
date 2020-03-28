@@ -12,8 +12,7 @@ The type-2 diabetes is commonly called diabetes mellitus. It can be defined as a
 <br/>**Intended Approach:**
 Loading the required libraries
 <br/>**Data Loading-** The observations of people are stored in a file and that file is loaded in environment.
-<br/>**Correlations-** The proportionalities of attributes of data that can be identified by correlation coefficient. This helps to know which attributes are highly dependent on prediction variable.  
-<br/>**Visualizations-** To  graph the structure of data and its relations, as in how they vary and their relation with other data
+<br/>**Correlations-** The proportionalities of attributes of data that can be identified by correlation coefficient.This helps to know which attributes are highly dependent on prediction variable.<br/>**Visualizations-** To graph the structure of data and its relations, as in how they vary and their relation with other data
 <br/>**Preparing the data-** Dividing data into training data and testing data, by listing out the major factors, i,e direct proportionality.
 <br/>**Build models-** Classify the concerned person with diabetes or not. 
 <br/>**Prediction-** A trained model is used to predict the data and for training data.
